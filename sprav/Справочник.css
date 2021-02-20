@@ -1,0 +1,7 @@
+th,td{
+	border: solid 3px #00848C;
+}
+table{
+	border-collapse: collapse;
+	background-image: linear-gradient(#CE9FFC,#7367F0);
+}
