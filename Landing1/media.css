@@ -1,0 +1,24 @@
+@media(max-width: 575px){
+	.menu{
+		position: static;
+	}
+	.menu a{
+		width: 100%;
+		padding: 20px 0;
+	}
+	.header{
+		padding: 100px 10px;
+		margin-top: 0;
+		background-position: center;
+		background-size: cover;
+		min-height: 300px;
+	}
+	.member{
+		width: 90%;
+		display: block;
+	}
+	.tarif{
+		width: 70%;
+		display: block;
+	}
+}
